@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+        <string name="app_name">ProstaAplikacjaNotatnik</string>
+        <string name="login_success">Logowanie Pomyślne</string>
+        <string name="login_failed">Logowanie Niepoprawne</string>
+        <string name="notes">Notatki</string>
+        <string name="change_language">Zmień język</string>
+        <string name="add_new_note">Dodaj nową notatkę</string>
+        <string name="sign_in">Zaloguj się</string>
+        <string name="username">Użytkownik</string>
+        <string name="password">Hasło</string>
+        <string name="login">Zaloguj</string>
+        <string name="forgot_password">Zapomniałeś hasła?</string>
+        <string name="or_sign_in_with">albo zaloguj za pomocą</string>
+        <string name="title">Tytuł</string>
+        <string name="description">Opis</string>
+        <string name="save_note">Zapisz notatkę</string>
+        <string name="cancel_note">Anuluj notatkę</string>
+        <string name="clik_here">Kliknij tutaj</string>
+        <string name="btn_en">Angielski</string>
+        <string name="btn_esp">Hiszpański</string>
+        <string name="btn_pl">Polski</string>
+    <string name="textChange">Zmień język</string>
+</resources>

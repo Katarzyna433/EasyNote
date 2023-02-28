@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación simple de cuaderno</string>
+    <string name="login_success">Inicio de sesión correcto</string>
+    <string name="login_failed">Iniciar sesión en incorrecto</string>
+    <string name="notes">Notas</string>
+    <string name="change_language">Cambiar idioma</string>
+    <string name="add_new_note">Agregue una nueva nota</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="forgot_password">¿Has olvidado tu contraseña?</string>
+    <string name="or_sign_in_with">o iniciar sesión con</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="save_note">Guardar la nota</string>
+    <string name="cancel_note">Cancelar la nota</string>
+    <string name="clik_here">Haga clic aquí</string>
+    <string name="btn_en">Inglés</string>
+    <string name="btn_esp">Español</string>
+    <string name="btn_pl">Polaco</string>
+    <string name="textChange">Cambiar idioma</string>
+</resources>

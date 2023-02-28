@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EasyNots</string>
+    <string name="login_success">Login Successful</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="notes">NOTES</string>
+    <string name="change_language">Change Language</string>
+    <string name="add_new_note">Add new note</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save_note">SAVE NOTE</string>
+    <string name="cancel_note">CANCEL NOTE</string>
+    <string name="clik_here">Clik Here</string>
+    <string name="btn_en">English</string>
+    <string name="btn_pl">Polish</string>
+    <string name="btn_esp">Spanish</string>
+    <string name="textChange">Change language</string>
+</resources>
